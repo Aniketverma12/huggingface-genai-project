@@ -41,7 +41,7 @@ Built NLP and Generative AI workflows using Hugging Face Transformers for sentim
 ## Notes
 - This project is cleaned and made GitHub-ready from a practice notebook.
 - API keys are **not included**.
-- If you want to extend it, you can add a Streamlit UI later.
+- If you want to extend it, you can add a Streamlit UI later
 
 ## Author
 **Aniket Verma**
